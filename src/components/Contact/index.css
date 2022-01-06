@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+
+.contact-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  height: 90vh;
+}
+.image-contact {
+  height: 400px;
+  width: 400px;
+}
+.heading-contact {
+  color: #6d396b;
+}

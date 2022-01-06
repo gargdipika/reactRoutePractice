@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.header-background-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image-wave {
+  height: 30px;
+  width: 30px;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+.list-link {
+  list-style: none;
+  color: #551e53;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+}

@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+
+.about-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  height: 90vh;
+}
+.image-about {
+  height: 400px;
+  width: 400px;
+}
+.heading-about {
+  color: #6d396b;
+}
+.description-about {
+  color: grey;
+  padding: 20px;
+  font-size: 20px;
+}
