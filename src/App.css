@@ -12,3 +12,16 @@ body {
 }
 
 /* Write your CSS code here */
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.background {
+  border: solid #12022f;
+  border-width: 5px;
+  width: 50vw;
+  height: 95vh;
+  border-radius: 15px;
+}
